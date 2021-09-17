@@ -8,4 +8,7 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="botao_cadastro_cor">#F31808</color>
+    <color name="corFundo">#3D5E64</color>
+    <color name="corTexto">#643D3D</color>
+    <color name="corTitulo">#3E643D</color>
 </resources>
