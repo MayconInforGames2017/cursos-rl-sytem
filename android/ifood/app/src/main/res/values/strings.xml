@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">ifood</string>
+    <string name="email_cadastro">textEmailAdresss</string>
 </resources>
